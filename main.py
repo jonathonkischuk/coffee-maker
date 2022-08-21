@@ -125,6 +125,3 @@ while ordering:
         ordering = False
         print("Have a great day!")
 
-
-# I learned that holding ctrl+ shift & while clicking and holding the top line of the desired section and
-# scrolling down to the bottom line of the desired section before releasing either key, or the click.
